@@ -1,5 +1,5 @@
 # Orthogonal Polynomials
-> This MATLAB package is aiming to solve different types of orthogonal polynomials in the most efficient way.  
+> This MATLAB package is aiming to solve different types of orthogonal polynomials in the most efficient way. Partial functions are documented here.
 
 ## Table of Contents
 * [HermiteCollocationMatrix](#hermitecollocationmatrix)
